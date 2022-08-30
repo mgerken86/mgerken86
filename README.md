@@ -63,4 +63,4 @@ I get a similar sense of joy from debugging, and most importantly, I am not afra
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgerken86&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgerken86&theme=blue-green)](https://git.io/streak-stats)
