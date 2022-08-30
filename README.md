@@ -22,7 +22,7 @@
   </h1>
   
   <div align="center">
-  <img src="https://i.imgur.com/o5qzsq9.jpg" width="640" height="640"/>
+  <img src="https://i.imgur.com/o5qzsq9.jpg" width="640" height="360"/>
   </div>
 
 </div>
