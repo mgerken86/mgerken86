@@ -29,10 +29,14 @@
 ### :mountain: About Me :
 I am a Full Stack Software Developer from Boulder, Colorado
 
--My insatiable curiosity keeps me seeking out puzzles, problems, and challenges that inspire me to find solutions through creativity, critical thinking, perseverance, and collaboration.
+- My insatiable curiosity keeps me seeking out puzzles, problems, and challenges that inspire me to find solutions through creativity, critical thinking, perseverance, and collaboration.
 The speed of evolution in the tech industry excites me, and my passion for knowledge motivates me to adapt my skillset to match the demands of the industry.
--I love riddles, puzzles, and problem-solving (ask me about escape-room boxes!). 
+
+- I love riddles, puzzles, and problem-solving (ask me about escape-room boxes!). 
 Programming provides the critical thinking that I love, it feels like the closest thing to magic to me; through the power of my mind, I'm able to translate my knowledge of computer languages into a manifestation of my imagination.
--As a climber, I enjoy breaking large problems into smaller 'moves' and calculating the most efficient way of linking them together. 
+
+- As a climber, I enjoy breaking large problems into smaller 'moves' and calculating the most efficient way of linking them together. 
 I'm inspired by challenge and feel the highest sense of accomplishment from climbs that sometimes take years of pushing my mental and physical limits until I reach the top. 
 I get a similar sense of joy from debugging, and most importantly, I am not afraid to fall a thousand times until I find a solution.
+
+
